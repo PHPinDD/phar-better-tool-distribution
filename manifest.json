@@ -22,5 +22,11 @@
 		"sha1": "c51fda26aa0643a6d12e3e0914bf1caa68ff7a47",
 		"url": "https://github.com/PHPinDD/phar-better-tool-distribution/raw/master/builds/symfony_1.0.1.phar",
 		"version": "1.0.1"
+	},
+	{
+		"name": "symfony.phar",
+		"sha1": "d38b2e7d45f4c165135f1d4dd3f4d3f43ad77389",
+		"url": "https://github.com/PHPinDD/phar-better-tool-distribution/raw/master/builds/symfony_1.0.2.phar",
+		"version": "1.0.2"
 	}
 ]
