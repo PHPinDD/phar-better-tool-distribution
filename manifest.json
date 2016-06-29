@@ -1,8 +1,8 @@
 [
 	{
 		"name": "symfony.phar",
-		"sha1": "70995508935017c3054782585277c8fcd7b27e0a",
-		"url": "https://github.com/PHPinDD/phar-better-tool-distribution/raw/master/dist/icegen-1.1.4.phar",
-		"version": "1.0.0"
+		"sha1": "0d931097e781e5bf6efc3f08e6d5b6062f2a43ab",
+		"url": "https://github.com/PHPinDD/phar-better-tool-distribution/raw/master/builds/symfony_0.1.0.phar",
+		"version": "0.1.0"
 	}
 ]
